@@ -1,0 +1,3 @@
+La página en si está hecha, el caso es que solo funcionan ciertas páginas, el resto están "en mantenimiento ya que falta
+contenido, pero la página está hecha. Las páginas "funcionales" son: inicio, recetas de barbacoa, la primera receta de la página de inicio y suscríbete a nuestra newsletter.
+Las demás tienen su correspondiente mensaje indicando que estarán disponibles próximamente. Espero que no sea un inconveniente.
