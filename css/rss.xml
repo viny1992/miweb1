@@ -6,8 +6,8 @@
         <description>Videos relacionados con barbacoas</description>
         <item>
             <title>Video-receta a la parrila</title>
-            <description>Videos de recetas sencillas a la parrilla</description>
             <link>https://www.youtube.com/playlist?list=PLptqD8HXX52VJ1MaWJ2q1VT4eT9xFNY0l</link>
+            <description>Videos de recetas sencillas a la parrilla</description>
         </item>
     </channel>
 </rss>
