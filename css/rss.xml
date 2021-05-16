@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Mi canal de RSS</title>
+        <link>https://viny1992.github.io/miweb1/</link>
+        <description>Videos relacionados con barbacoas</description>
+        <item>
+            <title>Video-receta a la parrila</title>
+            <description>Videos de recetas sencillas a la parrilla</description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,3 @@
+El formulario se encuentra en "ideas.html"
+
+El correo no es un campo obligatorio.

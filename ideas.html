@@ -1,0 +1,67 @@
+<html>
+  <head>
+    <title>BBQ Heaven</title>
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
+  <body>
+
+    <script>
+      function comprobar() {
+                if (newsletter.Nomb.value=="") {
+                    alert("Por favor, introduzca su nombre.")
+                } 
+                else {
+                    if (newsletter.Ape.value=="") {
+                        alert("Por favor, introduzca sus apellidos.")
+                    }
+                    else {
+                        newsletter.submit();
+                    }
+                }
+            }
+    </script>
+    <header>
+      <div class="encabezado">
+        <p>BBQ Heaven</p>
+      </div> 
+    </header>
+    <div class="navegacion">
+        <nav>
+            <ul>
+              <li><a href="index.html">Inicio</a></li>
+              <li><a href="barbacoa.html">Recetas de barbacoa</a></li>
+              <li><a href="horno.html">Recetas de horno</a></li>
+              <li><a href="rapidas.html">Recetas rápidas</a></li>
+              <li><a href="restaurantes.html">Mejores restaurantes de barbacoa</a></li>
+              <li><a href="ideas.html">Suscríbete a nuestra newsletter</a></li>
+              <li><a href="#final">Ir al final</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <div class="formulario">
+
+        <h2>Suscríbete a nuestra newsletter gratuita</h2>
+        <form name="newsletter" action="mailto:vertinho_viny@hotmail.com" method="GET">
+        <p>
+            <label for="" >Nombre</label>
+                <input type="text" name="Nomb" id="nombre" maxlength="30" >
+            <br/>
+            <label for="" >Apellidos</label>
+                <input type="text" name="Ape" id="apellido" maxlength="35">
+        </p>
+
+        <p>
+            <label for="" >Correo electronico</label>
+                <input type="text" name="correo" id="correo">
+        </p>
+        <input type="button" value="Enviar" onclick="comprobar()">
+
+        </form>
+    </div>
+
+    <div class="fondo" id="final">
+        <p>© EvertonV Comunicaciones S.A. - Contacto para publicidad: publi.evertonvc@hotmail.com</p>
+    </div>
+  </body>
+</html>
