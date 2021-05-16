@@ -1,3 +1,7 @@
 El formulario se encuentra en "ideas.html"
 
 El correo no es un campo obligatorio.
+
+El enlace RSS se encuentra en la parte de abajo en todas las secciones de mi web, menos en el acercade, en el enlace "Nuestro canal RSS".
+
+En cuanto al php, resulta que la web que hostea mi página no soporta php, por lo que da error 405, pero este como tal debería funcionar correctamente.

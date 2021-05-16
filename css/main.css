@@ -218,6 +218,15 @@ body {
 }
 
 .formulario {
-    height: 70%;
+    float: left;
+    height: 20%;
+    margin: 0 auto;
 }
 
+table {
+    float: right;
+    height: 25%;
+    background-color: aliceblue;
+    margin-bottom: 25%;
+    border-radius: 5px;
+}
